@@ -74,11 +74,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 </div>
 </div>
 
-
-## 🎤 Conference Papers
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIJCNN 2025</div><img src='images/ijcnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/ijcnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MSFNet-CPD: Multi-scale cross-modal fusion network for crop pest detection](https://ieeexplore.ieee.org/abstract/document/11228797/)
@@ -88,16 +84,9 @@ J Zhang,  Z. Liu **Kejian Yu**
 </div>
 
 
-- **Kejian Yu**, W. Xu, Y. Wu,  
-  *Attention‑Driven Multimodal Fusion: Manual Templates in Feature Aggregation*,  
-  *17th International Conference on Computer Analysis and Image Processing (ICCAI 2025)*.
-
-
 ## 🤝 Co‑authored Work
 
-- W. Xu, **Kejian Yu**, Z. Dai, Y. Wu,  
-  *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  
-  **Smart Agriculture**, 7 (4), 174‑186 (2024).
+- W. Xu, **Kejian Yu**, Z. Dai, Y. Wu, *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  **Smart Agriculture (CSCD)**.
 
 
 
