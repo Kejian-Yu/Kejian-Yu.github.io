@@ -90,8 +90,8 @@ J Zhang,  Z. Liu **Kejian Yu**
 
 
 
-# 🎖 Honors and Awards
-
+#  🎖 Honors and Awards
+- *2024.10* Donghua University Doctoral Scholarship
 
 # 📖 Educations
 - *2024.06 - 2026.04 (now)*, Doctor, Donghua University, Shanghai
