@@ -46,7 +46,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 **Kejian Yu**, W. Ma((Corresponding Author)), S. Chen, X. Wu, Y. Wang, T. Zhou,  
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0168169926001419) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accepted by Computers and Electronics in Agriculture (**IF = 7.1, 中科院 一区 Top**)
+- Accepted by Computers and Electronics in Agriculture (**中科院 一区 Top, IF = 7.1**)
 </div>
 </div>
 
