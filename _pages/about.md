@@ -27,31 +27,59 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/pr.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640)
 
 **K. Yu**, Z. Zhang, C. Hu, J. Luo,  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
+
+**K. Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecological Informatics 2025</div><img src='images/ec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Weight Optimization with Large Pretraining for Pest Detection](https://www.sciencedirect.com/science/article/pii/S157495412500233X)
+
+**K. Yu**, W. Xu, F. Geng, Y. Wu,  
+
+
+## 🎤 Conference Papers
+
+- **K. Yu**, W. Wu, X. Zhang et al.,  
+  *ITFNet‑API: Image and Text Based Multi‑Scale Feature Fusion for Pest Identification*,  
+  *International Joint Conference on Neural Networks (IJCNN 2025)*.
+
+- **K. Yu**, W. Xu, Y. Wu,  
+  *Attention‑Driven Multimodal Fusion: Manual Templates in Feature Aggregation*,  
+  *17th International Conference on Computer Analysis and Image Processing (ICCAI 2025)*.
+
+
+## 🤝 Co‑authored Work
+
+- W. Xu, **K. Yu**, Z. Dai, Y. Wu,  
+  *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  
+  **Smart Agriculture**, 7 (4), 174‑186 (2024).
+
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06 - 2026.04 (now)*, Doctor, Donghua University, Shanghai
+- *2021.09 - 2024.06*, Master, Anhui Agricultural University, Hefei
+- *2017.09 - 2021.06*, Undergraduate, Anhui Agricultural University, Hefei
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Activities
+- 🧠 **Student Member**, *IEEE Computational Intelligence Society*  
+- 💬 **Reviewer**, *IJCNN 2025 & 2026*, *ICME 2026*, *Information Processing & Management*, *Pattern Recognition*  
+- 🎙️ **Presenter**, *ICME 2026* & *IJCNN 2025*
