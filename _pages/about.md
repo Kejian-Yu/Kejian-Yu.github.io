@@ -34,6 +34,9 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 **Kejian Yu**, Z. Zhang, C. Hu, J. Luo,  
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,12 +44,18 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 **Kejian Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecological Informatics 2025</div><img src='images/ec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Weight Optimization with Large Pretraining for Pest Detection](https://www.sciencedirect.com/science/article/pii/S157495412500233X)
 
 **Kejian Yu**, W. Xu, F. Geng, Y. Wu,  
+
+</div>
+</div>
 
 
 ## 🎤 Conference Papers
@@ -57,6 +66,9 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [MSFNet-CPD: Multi-scale cross-modal fusion network for crop pest detection](https://ieeexplore.ieee.org/abstract/document/11228797/)
 J Zhang,  Z. Liu **Kejian Yu**
+
+</div>
+</div>
 
 
 - **Kejian Yu**, W. Xu, Y. Wu,  
@@ -70,8 +82,6 @@ J Zhang,  Z. Liu **Kejian Yu**
   *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  
   **Smart Agriculture**, 7 (4), 174‑186 (2024).
 
-
-</div>
 
 
 # 🎖 Honors and Awards
