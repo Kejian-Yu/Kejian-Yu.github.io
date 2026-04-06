@@ -32,37 +32,41 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640)
 
-**K. Yu**, Z. Zhang, C. Hu, J. Luo,  
+**Kejian Yu**, Z. Zhang, C. Hu, J. Luo,  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
 
-**K. Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
+**Kejian Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecological Informatics 2025</div><img src='images/ec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Weight Optimization with Large Pretraining for Pest Detection](https://www.sciencedirect.com/science/article/pii/S157495412500233X)
 
-**K. Yu**, W. Xu, F. Geng, Y. Wu,  
+**Kejian Yu**, W. Xu, F. Geng, Y. Wu,  
 
 
 ## 🎤 Conference Papers
 
-- **K. Yu**, W. Wu, X. Zhang et al.,  
-  *ITFNet‑API: Image and Text Based Multi‑Scale Feature Fusion for Pest Identification*,  
-  *International Joint Conference on Neural Networks (IJCNN 2025)*.
 
-- **K. Yu**, W. Xu, Y. Wu,  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIJCNN 2025</div><img src='images/ijcnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MSFNet-CPD: Multi-scale cross-modal fusion network for crop pest detection](https://ieeexplore.ieee.org/abstract/document/11228797/)
+J Zhang,  Z. Liu **Kejian Yu**
+
+
+- **Kejian Yu**, W. Xu, Y. Wu,  
   *Attention‑Driven Multimodal Fusion: Manual Templates in Feature Aggregation*,  
   *17th International Conference on Computer Analysis and Image Processing (ICCAI 2025)*.
 
 
 ## 🤝 Co‑authored Work
 
-- W. Xu, **K. Yu**, Z. Dai, Y. Wu,  
+- W. Xu, **Kejian Yu**, Z. Dai, Y. Wu,  
   *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  
   **Smart Agriculture**, 7 (4), 174‑186 (2024).
 
