@@ -27,17 +27,19 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/pr.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640)
 
 **Kejian Yu**, Z. Zhang, C. Hu, J. Luo,  
 
+[**Project**](https://www.sciencedirect.com/science/article/pii/S0031320326001640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accepted by *Pattern Recognition (中科院一区Top, CCF B)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
