@@ -27,6 +27,29 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Conference on Multimedia & Expo 2026</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DisMoE:Can Distillation-Driven Frame-Level Mixture-of-Experts Enable Robust Micro-Expression Recognition?]()
+
+**Kejian Yu**, Z. Zhang, J. Luo,  C, Xiang
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accepted by ICME 2026 (**CCF B Conference**)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CPCR:Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
+
+**Kejian Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
+[**Project**](https://www.sciencedirect.com/science/article/pii/S0168169926001419) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accepted by Computers and Electronics in Agriculture (**IF = 7.1, 中科院 一区 Top**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,19 +58,10 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 **Kejian Yu**, Z. Zhang, C. Hu, J. Luo,  
 
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0031320326001640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accepted by *Pattern Recognition (中科院一区Top, CCF B)
+- Accepted by Pattern Recognition (**中科院一区Top, CCF B**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers and Electronics in Agriculture 2026</div><img src='images/compag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
-
-**Kejian Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecological Informatics 2025</div><img src='images/ec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +69,8 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 [Adaptive Weight Optimization with Large Pretraining for Pest Detection](https://www.sciencedirect.com/science/article/pii/S157495412500233X)
 
 **Kejian Yu**, W. Xu, F. Geng, Y. Wu,  
-
+[**Project**](https://www.sciencedirect.com/science/article/pii/S157495412500233X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accepted by Computers and Ecological Informatics (**IF = 7.1, 中科院 二区**)
 </div>
 </div>
 
