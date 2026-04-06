@@ -22,8 +22,8 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 # 🔥 News
 - *2026.03* 🎉 Our paper **“DisMoE: Can Distillation‑Driven Frame‑Level Mixture‑of‑Experts Enable Robust Micro‑Expression Recognition?”** was **accepted by *IEEE ICME 2026 (CCF B)***!  
-- *2025.02* 🎉 Our work **“CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model”** was **accepted by *Computers and Electronics in Agriculture (IF = 7.1, 中科院 一区 Top)***!  
-- *2025.01* 🎉 Our paper **“SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition”** was **accepted by *Pattern Recognition (CCF B)***!
+- *2025.02* 🎉 Our work **“CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model”** was **accepted by *Computers and Electronics in Agriculture (中科院 一区 Top, IF = 7.1)***!  
+- *2025.01* 🎉 Our paper **“SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition”** was **accepted by *Pattern Recognition (中科一区Top, CCF B)***!
 
 # 📝 Publications 
 
