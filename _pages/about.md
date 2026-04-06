@@ -32,7 +32,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [DisMoE:Can Distillation-Driven Frame-Level Mixture-of-Experts Enable Robust Micro-Expression Recognition?]()
 
-**Kejian Yu**, Z. Zhang, J. Luo,  C, Xiang
+**Kejian Yu**, Z. Zhang((Corresponding Author)), J. Luo,  C, Xiang
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accepted by ICME 2026 (**CCF B Conference**)
@@ -44,7 +44,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [CPCR:Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model](https://www.sciencedirect.com/science/article/pii/S0168169926001419)
 
-**Kejian Yu**, W. Ma, S. Chen, X. Wu, Y. Wang, T. Zhou,  
+**Kejian Yu**, W. Ma((Corresponding Author)), S. Chen, X. Wu, Y. Wang, T. Zhou,  
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0168169926001419) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accepted by Computers and Electronics in Agriculture (**IF = 7.1, 中科院 一区 Top**)
 </div>
@@ -55,7 +55,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326001640)
 
-**Kejian Yu**, Z. Zhang, C. Hu, J. Luo,  
+**Kejian Yu**, Z. Zhang(Corresponding Author), C. Hu, J. Luo,  
 
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0031320326001640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accepted by Pattern Recognition (**中科院一区Top, CCF B**)
@@ -68,7 +68,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 [Adaptive Weight Optimization with Large Pretraining for Pest Detection](https://www.sciencedirect.com/science/article/pii/S157495412500233X)
 
-**Kejian Yu**, W. Xu, F. Geng, Y. Wu,  
+**Kejian Yu**, W. Xu, F. Geng, Y. Wu((Corresponding Author)),  
 [**Project**](https://www.sciencedirect.com/science/article/pii/S157495412500233X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accepted by Computers and Ecological Informatics (**IF = 7.1, 中科院 二区**)
 </div>
@@ -78,7 +78,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 <div class='paper-box-text' markdown="1">
 
 [MSFNet-CPD: Multi-scale cross-modal fusion network for crop pest detection](https://ieeexplore.ieee.org/abstract/document/11228797/)
-J Zhang,  Z. Liu **Kejian Yu**
+J Zhang,  Z. Liu **Kejian Yu**((Corresponding Author))
 
 </div>
 </div>
