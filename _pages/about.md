@@ -86,8 +86,8 @@ J Zhang,  Z. Liu **Kejian Yu**(Corresponding Author)
 
 ## 🤝 Co‑authored Work
 
-- W. Xu, **Kejian Yu**, Z. Dai, Y. Wu, *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  **Smart Agriculture (CSCD)**.
-
+- J. Liu, Z. Zhang, **Kejian Yu**, *FIDIC:Fine-Grained Conversational Emotion Recognition via Individual Differences in Inertia and Contagion*,  **ICASSP(CCF-B Conf., 2026)**.
+- W. Xu, **Kejian Yu**, Z. Dai, Y. Wu, *A Transfer Learning‑Based Multimodal Model for Grape Detection and Counting*,  **Smart Agriculture (CSCD, 2025)**.
 
 
 #  🎖 Honors and Awards
