@@ -22,8 +22,8 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 # 🔥 News
 - *2026.03* 🎉 Our paper **“DisMoE: Can Distillation‑Driven Frame‑Level Mixture‑of‑Experts Enable Robust Micro‑Expression Recognition?”** was **accepted by *IEEE ICME 2026 (CCF B)***!  
-- *2025.02* 🎉 Our work **“CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model”** was **accepted by *Computers and Electronics in Agriculture (中科院 一区 Top, IF = 7.1)***!  
-- *2025.01* 🎉 Our paper **“SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition”** was **accepted by *Pattern Recognition (中科一区Top, CCF B)***!
+- *2025.02* 🎉 Our work **“CPCR: Crop Pests Cross‑Modal Retrieval with Prior Instruction via Multimodal Large Language Model”** was **accepted by *Computers and Electronics in Agriculture (中科院 一区 Top, IF = 10.3)***!  
+- *2025.01* 🎉 Our paper **“SOFP: Capturing Subtle Facial Dynamics with Symmetric Optical Flow Perception for Micro‑Expression Recognition”** was **accepted by *Pattern Recognition (中科一区Top, CCF B，IF = 9.1)***!
 
 # 📝 Publications 
 
@@ -46,7 +46,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 **Kejian Yu**, W. Ma(Corresponding Author), S. Chen, X. Wu, Y. Wang, T. Zhou,  
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0168169926001419) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accepted by Computers and Electronics in Agriculture (**中科院 一区 Top, IF = 7.1**)
+- Accepted by Computers and Electronics in Agriculture (**中科院 一区 Top, IF = 10.3**)
 </div>
 </div>
 
@@ -58,7 +58,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 **Kejian Yu**, Z. Zhang(Corresponding Author), C. Hu, J. Luo,  
 
 [**Project**](https://www.sciencedirect.com/science/article/pii/S0031320326001640) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accepted by Pattern Recognition (**中科院一区Top, CCF B**)
+- Accepted by Pattern Recognition (**中科院一区Top, CCF B, IF = 9.1**)
 </div>
 </div>
 
@@ -70,7 +70,7 @@ My research centers on **Affective Computing**, **Multimodal Learning**, and
 
 **Kejian Yu**, W. Xu, F. Geng, Y. Wu(Corresponding Author),  
 [**Project**](https://www.sciencedirect.com/science/article/pii/S157495412500233X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accepted by Computers and Ecological Informatics (**IF = 7.1, 中科院 二区**)
+- Accepted by Ecological Informatics (**IF = 8.5, 中科院 二区**)
 </div>
 </div>
 
