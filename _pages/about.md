@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I’m **Kejian Yu (余克健)**, a second‑year **Ph.D. candidate** at the *School of Computer Science and Technology*, **Donghua University**, Shanghai.  
+Hello! I’m **Kejian Yu (余克健)**, a third‑year **Ph.D. candidate** at the *School of Computer Science and Technology*, **Donghua University**, Shanghai.  
 My research centers on **Affective Computing**, **Multimodal Learning**, and **Artificial Intelligence**, aiming to develop *emotionally intelligent AI systems* capable of understanding and responding to human emotions across diverse modalities.
 
 # 🔥 News
